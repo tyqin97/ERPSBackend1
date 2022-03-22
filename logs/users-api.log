@@ -1,0 +1,2 @@
+Tue Mar 22 2022 21:47:25 GMT+0800 (Malaysia Time) | INFO | users-api.log | API: /getAllUsers | data:{"message":"API Done","total":240,"status":true} | 
+Tue Mar 22 2022 21:56:39 GMT+0800 (Malaysia Time) | INFO | users-api.log | API: /getAllUsers | data:{"message":"API Done","total":240,"status":true} | 
